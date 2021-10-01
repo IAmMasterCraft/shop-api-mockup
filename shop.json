@@ -1,0 +1,158 @@
+{
+  "all": [
+    {
+      "name": "24 INCH LED TV",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/768957/1.jpg",
+      "price": "45990",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Bluetooth Home Theatre",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/371064/1.jpg",
+      "price": "21300",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Smart Watch",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/130597/1.jpg",
+      "price": "9000",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Electrical Surge Protector",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/173232/1.jpg",
+      "price": "4560",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Cordless Hair Clipper",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/159164/1.jpg",
+      "price": "12800",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Smart CCTV Camera",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/217297/1.jpg",
+      "price": "16510",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "3m HDMI Cable",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/593556/1.jpg",
+      "price": "1776",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "PS4 Console (Sony)",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/151517/1.jpg",
+      "price": "175000",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "PS4 Controller Pad (Sony)",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/734634/1.jpg",
+      "price": "9000",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Nike Air Max Invigor Men's Sneakers",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/182997/1.jpg",
+      "price": "75000",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    },
+    {
+      "name": "Nike Elemental Backpack",
+      "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/182997/1.jpg",
+      "price": "23500",
+      "currency": "NGN",
+      "currency_name": "Naira"
+    }
+  ],
+  "0": {
+    "name": "24 INCH LED TV",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/768957/1.jpg",
+    "price": "45990",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "1": {
+    "name": "Bluetooth Home Theatre",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/371064/1.jpg",
+    "price": "21300",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "2": {
+    "name": "Smart Watch",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/130597/1.jpg",
+    "price": "9000",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "3": {
+    "name": "Electrical Surge Protector",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/173232/1.jpg",
+    "price": "4560",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "4": {
+    "name": "Cordless Hair Clipper",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/159164/1.jpg",
+    "price": "12800",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "5": {
+    "name": "Smart CCTV Camera",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/217297/1.jpg",
+    "price": "16510",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "6": {
+    "name": "3m HDMI Cable",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/593556/1.jpg",
+    "price": "1776",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "7": {
+    "name": "PS4 Console (Sony)",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/151517/1.jpg",
+    "price": "175000",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "8": {
+    "name": "PS4 Controller Pad (Sony)",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/734634/1.jpg",
+    "price": "9000",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "9": {
+    "name": "Nike Air Max Invigor Men's Sneakers",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/182997/1.jpg",
+    "price": "75000",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  },
+  "10": {
+    "name": "Nike Elemental Backpack",
+    "picture": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/182997/1.jpg",
+    "price": "23500",
+    "currency": "NGN",
+    "currency_name": "Naira"
+  }
+}

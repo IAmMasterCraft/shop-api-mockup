@@ -1,0 +1,9 @@
+{
+    "product_id": {
+        "name": "Product A",
+        "picture": "picture url",
+        "price": "10",
+        "short_description": "some short description",
+        "long_description": "a very long description for product"
+    }
+}
